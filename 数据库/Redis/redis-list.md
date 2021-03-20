@@ -1,0 +1,1 @@
+- 控制List的长度，每次push或者pop的时候，可以使用ltrim()函数让list保持固定长度
