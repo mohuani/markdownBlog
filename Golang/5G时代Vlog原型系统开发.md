@@ -4,7 +4,7 @@
 ##### 课程代码
 ps：其中的文件上传不知道哪里出错了，一直不成功
 
-```go
+```golang
 package main
 
 import (
